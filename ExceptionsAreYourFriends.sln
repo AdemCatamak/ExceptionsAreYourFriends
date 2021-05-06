@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceWithException", "ServiceWithException\ServiceWithException.csproj", "{30F9CD45-0FA2-45CD-B801-D1E7A76DB5B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceWithOperationResult", "ServiceWithOperationResult\ServiceWithOperationResult.csproj", "{6E398CAB-26A4-42D3-AD49-21170399D301}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BenchmarkConsole", "BenchmarkConsole\BenchmarkConsole.csproj", "{3AADFD07-62D8-41CB-9180-06CB30DE4E28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30F9CD45-0FA2-45CD-B801-D1E7A76DB5B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30F9CD45-0FA2-45CD-B801-D1E7A76DB5B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30F9CD45-0FA2-45CD-B801-D1E7A76DB5B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30F9CD45-0FA2-45CD-B801-D1E7A76DB5B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E398CAB-26A4-42D3-AD49-21170399D301}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E398CAB-26A4-42D3-AD49-21170399D301}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E398CAB-26A4-42D3-AD49-21170399D301}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E398CAB-26A4-42D3-AD49-21170399D301}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AADFD07-62D8-41CB-9180-06CB30DE4E28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AADFD07-62D8-41CB-9180-06CB30DE4E28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AADFD07-62D8-41CB-9180-06CB30DE4E28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AADFD07-62D8-41CB-9180-06CB30DE4E28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
